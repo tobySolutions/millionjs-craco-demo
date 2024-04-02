@@ -3,7 +3,7 @@ import { block } from "million/react";
 const App = () => {
   return (
     <div>
-      <h1>Hello, Million with Webpack!</h1>
+      <h1>Hello, Million with Craco!</h1>
       <OmoOlogo />
       <OmoOlogoBlock />
     </div>
